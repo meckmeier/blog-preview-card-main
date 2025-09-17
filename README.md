@@ -28,13 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="assets/images/overview.png>
+<img src="assets/images/overview.png">
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.meckmeier.blog-preview-card-main.com)
-- Live Site URL: [Add live site URL here](https://meckmeier.github.io.com\blog-preview-card-main)
+- Solution URL: ([https://github.meckmeier.blog-preview-card-main.com](https://github.com/meckmeier/blog-preview-card-main))
+- Live Site URL: ([https://meckmeier.github.io.com\blog-preview-card-main](https://meckmeier.github.io/blog-preview-card-main))
 
 ## My process
 
