@@ -58,6 +58,7 @@ I am trying to use more semantic classes (saying what stuff IS rather than how i
       align-items: center;
       height: 100vh;
     }
+```
 Trying to figure out how to center the card on the page was really difficult to me. Until I added the height: 100vh (offered by emmet in my vs environment) I could not get the vertical alignment to work. I'd love to know why that is, but for now - it works.
 
 
