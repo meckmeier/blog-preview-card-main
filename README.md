@@ -49,10 +49,8 @@ Users should be able to:
 ### What I learned
 
 I learned about centering objects on the page. Using custom colors, and ordering my workflow to build the HTML first, and add in the css after. It was a back and forth for me - but the process is becoming more clear now. I 
-
-```html
 I am trying to use more semantic classes (saying what stuff IS rather than how it LOOKS) is tricky but it feels like it will work better when you have a larger site. As I try to lay things out though I have to add more categories, so it's been a bit of an iterative process.
-```
+
 ```css
     main {
       display: flex;
