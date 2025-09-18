@@ -4,7 +4,7 @@
     img {
       max-width: 100%;
       display: block;
-      padding-bottom: 20px;
+      border-radius: 8px;
     }
 
     body {
@@ -22,33 +22,44 @@
       align-items: center;
       height: 100vh;
     }
+    h1 {
+      padding:0px; 
+      margin:0px;
+    }
 
+    P{ margin:0px;
+      padding-bottom: 20px; 
+    }
     .container{
       max-width: 350px;
       background-color: hsl(0, 0%, 100%);
       border-radius: 8px;
       padding: 24px;
-      box-shadow: 10px 10px 5px black;
+      border: solid 1px black;
+      box-shadow: 10px 10px black;
       display:grid;
       grid-template-rows: 1fr;
+      row-gap: 20px;
+    }
 
+    .card{
+      display: flex;
+      flex-direction: column;
+      gap:20px;
     }
 
     .category {
       font-size: 11px;
       font-weight: 700;
       background-color: hsl(47, 88%, 63%);
-      text-transform: uppercase;
-      padding: .5rem;
-      margin-bottom: .5rem;
-      border-radius:8px;
-      border-color: hsl(47,88%, 63%)
+     /* padding: .5rem;
+      margin-bottom: .5rem;*/
     }
 
     .subtitle {
       font-size: 13px;
       color: hsl(228, 12%, 44%);
-      padding-bottom: 1rem;
+      /*padding-bottom: 1rem;*/
     }
 
     .article {
@@ -56,7 +67,7 @@
       font-weight: 700;
       color: hsl(0, 0%, 7%);
       text-decoration: none;
-      padding-bottom: 1rem;
+      /*padding-bottom: 1rem;*/
       display: block;
     }
 
@@ -76,6 +87,7 @@
       align-items: center;
       justify-items: auto;
       gap: 20px;
+      font-weight: 800;
 
     }
 
